@@ -1,5 +1,5 @@
 
-name: newdockerdemo/CICD
+name: newdockerdemo
 
 on:
   pull_request:
