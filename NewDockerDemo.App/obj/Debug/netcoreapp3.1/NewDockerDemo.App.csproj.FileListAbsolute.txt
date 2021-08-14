@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\bin\Debug\netcoreapp3.1\NewDockerDemo.App.exe
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\bin\Debug\netcoreapp3.1\NewDockerDemo.App.deps.json
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\bin\Debug\netcoreapp3.1\NewDockerDemo.App.runtimeconfig.json
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\bin\Debug\netcoreapp3.1\NewDockerDemo.App.runtimeconfig.dev.json
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\bin\Debug\netcoreapp3.1\NewDockerDemo.App.dll
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\bin\Debug\netcoreapp3.1\NewDockerDemo.App.pdb
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\obj\Debug\netcoreapp3.1\NewDockerDemo.App.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\obj\Debug\netcoreapp3.1\NewDockerDemo.App.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\obj\Debug\netcoreapp3.1\NewDockerDemo.App.AssemblyInfo.cs
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\obj\Debug\netcoreapp3.1\NewDockerDemo.App.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\obj\Debug\netcoreapp3.1\NewDockerDemo.App.dll
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\obj\Debug\netcoreapp3.1\NewDockerDemo.App.pdb
+C:\Users\hp\source\repos\NewDockerDemo\NewDockerDemo.App\obj\Debug\netcoreapp3.1\NewDockerDemo.App.genruntimeconfig.cache

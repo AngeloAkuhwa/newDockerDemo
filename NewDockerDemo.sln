@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewDockerDemo.App", "NewDockerDemo.App\NewDockerDemo.App.csproj", "{23032E29-1099-48FA-9B44-2012A80F8BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewDockerDemo.Test", "NewDockerDemo.Test\NewDockerDemo.Test.csproj", "{183FA306-B2DC-4715-9992-437C3D8429C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23032E29-1099-48FA-9B44-2012A80F8BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23032E29-1099-48FA-9B44-2012A80F8BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23032E29-1099-48FA-9B44-2012A80F8BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23032E29-1099-48FA-9B44-2012A80F8BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183FA306-B2DC-4715-9992-437C3D8429C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183FA306-B2DC-4715-9992-437C3D8429C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183FA306-B2DC-4715-9992-437C3D8429C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183FA306-B2DC-4715-9992-437C3D8429C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F224F72-E053-43DB-A07D-1F64B8AFE475}
+	EndGlobalSection
+EndGlobal
