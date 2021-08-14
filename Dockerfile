@@ -2,8 +2,8 @@ FROM mcr.microsoft.com/dotnet/sdk:3.1 AS base
 WORKDIR /src
 COPY *.sln .
 # copy and restore all projects
-COPY newDockerDemo.App.App/*.csproj newDockerDemo.App/
-RUN dotnet restore newDockerDemo.App.App/*.csproj
+COPY newDockerDemo.App/*.csproj newDockerDemo.App/
+RUN dotnet restore newDockerDemo.App/*.csproj
 COPY newDockerDemo.App.Test/*.csproj newDockerDemo.Test/
 RUN dotnet restore newDockerDemo.Test/*.csproj
 # Copy everything else
