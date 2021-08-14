@@ -4,7 +4,7 @@ COPY *.sln .
 # copy and restore all projects
 COPY newDockerDemo.App/*.csproj newDockerDemo.App/
 RUN dotnet restore newDockerDemo.App/*.csproj
-COPY newDockerDemo.App.Test/*.csproj newDockerDemo.Test/
+COPY newDockerDemo.Test/*.csproj newDockerDemo.Test/
 RUN dotnet restore newDockerDemo.Test/*.csproj
 # Copy everything else
 COPY . .
