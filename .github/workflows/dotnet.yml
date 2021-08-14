@@ -1,5 +1,5 @@
 
-name: newdockerdemo/CICD
+name: newdockerdemoCICD
 on:
   pull_request:
     branches:
