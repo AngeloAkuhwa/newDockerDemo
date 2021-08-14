@@ -10,7 +10,7 @@ RUN dotnet restore newDockerDemo.Test/*.csproj
 COPY . .
 #Testing
 FROM base AS testing
-WORKDIR /src/newDockerDemo
+WORKDIR /src/newDockerDemo.App
 RUN dotnet build
 #WORKDIR /src/DemoHerokuApp.Test
 WORKDIR /src/newDockerDemo.Test
